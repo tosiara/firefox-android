@@ -3,7 +3,7 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 // If you ever need to force a toolchain rebuild (taskcluster) then edit the following comment.
-// FORCE REBUILD 2023-05-04
+// FORCE REBUILD 2023-05-05
 
 object FenixVersions {
     const val kotlin = "1.8.21"
@@ -19,14 +19,14 @@ object FenixVersions {
     const val osslicenses_plugin = "0.10.4"
     const val detekt = "1.19.0"
 
-    const val androidx_activity = "1.6.1"
+    const val androidx_activity = "1.7.1"
     const val androidx_compose = "1.4.3"
     const val androidx_compose_compiler = "1.4.7"
     const val androidx_appcompat = "1.6.1"
     const val androidx_benchmark = "1.1.1"
     const val androidx_biometric = "1.1.0"
-    const val androidx_coordinator_layout = "1.1.0"
-    const val androidx_constraint_layout = "2.0.4"
+    const val androidx_coordinator_layout = "1.2.0"
+    const val androidx_constraint_layout = "2.1.4"
     const val androidx_preference = "1.1.1"
     const val androidx_profileinstaller = "1.2.2"
     const val androidx_legacy = "1.0.0"
@@ -34,14 +34,14 @@ object FenixVersions {
     const val androidx_lifecycle = "2.6.1"
     const val androidx_fragment = "1.5.7"
     const val androidx_navigation = "2.5.3"
-    const val androidx_recyclerview = "1.2.1"
+    const val androidx_recyclerview = "1.3.0"
     const val androidx_core = "1.10.0"
     const val androidx_paging = "3.1.1"
     const val androidx_transition = "1.4.1"
     const val androidx_work = "2.7.1"
     const val androidx_datastore = "1.0.0"
     const val androidx_datastore_preferences = "1.0.0"
-    const val google_material = "1.2.1"
+    const val google_material = "1.9.0"
     const val google_accompanist = "0.28.0"
 
     const val adjust = "4.33.0"
